@@ -6,3 +6,6 @@
 
 This is a repository for different versions of VPC with Terraform.
 All important documentation can be found at [terraform documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpc)
+
+
+![1_VKTHtHwo3pUxeDP0ZmrOoA](https://user-images.githubusercontent.com/85028974/197715874-d4e39d64-986b-4a0c-9745-649e256dd04d.jpg)
